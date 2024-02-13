@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Nver's GitHub stats](https://github-readme-stats.vercel.app/api?username=NverKhachatryan&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)
+
+![](https://komarev.com/ghpvc/?username=NverKhachatryan)
+
 <!--
 **NverKhachatryan/NverKhachatryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
