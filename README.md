@@ -4,38 +4,31 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NverKhachatryan&count_private=true&show_icons=true&theme=dark)](https://github.com/NverKhachatryan)
 
 ## 🚀 About Me
-I'm a passionate developer who loves to code and build things. (You can customize this section with your personal description)
+I'm a developer focused on artificial intelligence and machine learning, currently building Prismix - an AI-powered social media management platform. I'm passionate about leveraging ML to create innovative solutions that make social media management more efficient and intelligent.
 
 ### 🛠️ Technologies & Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-<!-- Add or remove badges based on your tech stack -->
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### 📊 GitHub Statistics
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NverKhachatryan&layout=compact&theme=dark)](https://github.com/NverKhachatryan)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NverKhachatryan&theme=dark)](https://github.com/NverKhachatryan)
 
 ### 🌟 Featured Projects
-<!-- Replace these with your actual projects -->
-- [Project 1](https://github.com/NverKhachatryan/project-1) - Brief description
-- [Project 2](https://github.com/NverKhachatryan/project-2) - Brief description
-- [Project 3](https://github.com/NverKhachatryan/project-3) - Brief description
+- [Prismix]() - AI-powered social media management platform
+<!-- Add more projects as needed -->
 
 ### 🎯 Current Focus
-- 🔭 I'm currently working on [Current Project]
-- 🌱 I'm currently learning [Technology/Skill]
-- 👯 I'm looking to collaborate on [Type of Projects]
+- 🔭 I'm currently working on Prismix, developing advanced AI algorithms for social media optimization
+- 🌱 I'm diving deep into Machine Learning, particularly in areas of NLP and content generation
+- 👯 I'm looking to collaborate on AI/ML projects, especially those focused on social media analytics and automation
 
 ### 📫 How to Reach Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/your-handle)
-<!-- Add or modify social links as needed -->
-
-### ⚡ Fun Facts
-- Share something interesting about yourself
-- Another fun fact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nver-khachatryan-792b26155/)
 
 ---
-_Feel free to reach out if you want to discuss technology, collaboration opportunities, or just want to connect!_
+_Interested in AI, ML, Software Development or social media automation? Let's connect and discuss potential collaborations!_
