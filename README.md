@@ -1,6 +1,7 @@
 # Hi there, I'm Nver 👋
 
 [![Profile Views](https://komarev.com/ghpvc/?username=NverKhachatryan)](https://github.com/NverKhachatryan)
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NverKhachatryan&count_private=true&show_icons=true&theme=dark)](https://github.com/NverKhachatryan)
 
 ## 🚀 About Me
@@ -16,6 +17,7 @@ I'm a developer focused on artificial intelligence and machine learning, current
 
 ### 📊 GitHub Statistics
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NverKhachatryan&layout=compact&theme=dark)](https://github.com/NverKhachatryan)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NverKhachatryan&theme=dark)](https://github.com/NverKhachatryan)
 
 ### 🌟 Featured Projects
@@ -25,7 +27,6 @@ I'm a developer focused on artificial intelligence and machine learning, current
 ### 🎯 Current Focus
 - 🔭 I'm currently working on Prismix, developing advanced AI algorithms for social media optimization
 - 🌱 I'm diving deep into Machine Learning, particularly in areas of NLP and content generation
-- 👯 I'm looking to collaborate on AI/ML projects, especially those focused on social media analytics and automation
 
 ### 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nver-khachatryan-792b26155/)
