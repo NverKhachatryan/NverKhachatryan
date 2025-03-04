@@ -2,10 +2,8 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=NverKhachatryan)](https://github.com/NverKhachatryan)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrismixInc&count_private=true&show_icons=true&theme=dark)](https://github.com/NverKhachatryan)
-
 ## 🚀 About Me
-I'm a developer focused on artificial intelligence and machine learning, currently building Prismix - an AI-powered social media management platform. I'm passionate about leveraging ML to create innovative solutions that make social media management more efficient and intelligent.
+I'm a software engineer focused on artificial intelligence and machine learning, currently building Prismix - an AI-powered social media management platform. I'm passionate about leveraging ML to create innovative solutions that make social media management more efficient and intelligent.
 
 ### 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
